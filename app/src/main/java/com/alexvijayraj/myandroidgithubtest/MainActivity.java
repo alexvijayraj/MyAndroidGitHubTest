@@ -20,6 +20,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /*
+     * This is my second test function
+     */
+    private void secondTestFunction(){
+
+        int second = 1;
+    }
+
+    /*
      * This is my third test function
      */
     private void thirdTestFunction(){
