@@ -27,4 +27,12 @@ public class MainActivity extends AppCompatActivity {
         int third = 1;
     }
 
+    /*
+     * This is my fourth test function
+     */
+    private void fourthTestFunction(){
+
+        int third = 1;
+    }
+
 }
