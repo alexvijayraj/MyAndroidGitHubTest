@@ -18,4 +18,12 @@ public class MainActivity extends AppCompatActivity {
 
         int first = 1;
     }
+
+    /*
+     * This is my second test function
+     */
+    private void secondTestFunction(){
+
+        int second = 1;
+    }
 }
